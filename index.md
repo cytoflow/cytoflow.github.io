@@ -42,7 +42,7 @@ packages don't handle this gracefully!
   a workflow directly to a notebook!
 
 * **Free and open-source.**  Download the source code from 
-  [the GitHub project page](https://github.com/bpteague/cytoflow) and modify it 
+  [the GitHub project page](https://github.com/cytoflow/cytoflow) and modify it 
   to suit your own needs, then contribute your changes back so the rest of 
   the community can benefit from them.
   
@@ -69,8 +69,8 @@ panel, make sure it's activated by going to the "View" menu and selecting
 The Jupyter notebooks and screencasts use two example data sets.  
 If you'd like to play with them yourself, you can download them here:
 
-* [Basic examples](https://github.com/bpteague/cytoflow/releases/download/{{ site.version }}/cytoflow-{{ site.version }}-examples-basic.zip)
-* [Advanced examples](https://github.com/bpteague/cytoflow/releases/download/{{ site.version }}/cytoflow-{{ site.version }}-examples-advanced.zip)
+* [Basic examples](https://github.com/cytoflow/cytoflow/releases/download/{{ site.version }}/cytoflow-{{ site.version }}-examples-basic.zip)
+* [Advanced examples](https://github.com/cytoflow/cytoflow/releases/download/{{ site.version }}/cytoflow-{{ site.version }}-examples-advanced.zip)
 
 # Help!  I found a bug!
 
@@ -78,15 +78,12 @@ First, are you using the current version?  To check, which version
 you're using, go to the Help menu (Windows) or Cytoflow menu (Mac)
 and choose "About Cytoflow...".
 
-You can also try to reproduce the bug in the latest build from git HEAD. 
-Those binaries are [on BinTray](https://bintray.com/bpteague/cytoflow/cytoflow#files).
-
 If you have found a bug in the most recent version, you can submit your bug report to the 
-[Github issues tracker](https://github.com/bpteague/cytoflow/issues).
+[Github issues tracker](https://github.com/cytoflow/cytoflow/issues).
 
 # I want to keep up with new Cytoflow releases!
 
-Great! At the [Github page](https://github.com/bpteague/cytoflow/), pull down the "Watch" 
+Great! At the [Github page](https://github.com/cytoflow/cytoflow/), pull down the "Watch" 
 menu and select "Releases only."
 
 
