@@ -2,7 +2,7 @@
 layout: default
 title: {{ site.name }}
 ---
-# Welcome!  New to Cytoflow?  Start with a [tutorial.](https://cytoflow.readthedocs.io/en/stable/manual/01_quickstart.html)
+# Welcome!  New to Cytoflow?  Start with a [tutorial.](https://cytoflow.readthedocs.io/en/stable/user_manual/tutorials/quickstart.html)
 
 # What's wrong with other packages?  
 
@@ -50,7 +50,7 @@ packages don't handle this gracefully!
 
 * **Windows** - download the installer by clicking the "Windows" button at the top of the page.  Run the installer.
 
-* **Mac** - download the ZIP file by clicking the "Mac" button at the top of the page.  Unzip the file.  Double-click
+* **Mac** - download the ZIP file by clicking the "Mac" button at the top of the page.  Double-click
   to run the program.  Depending on your security settings, you may have to specifically enable this program
   (it's not signed.)
   
