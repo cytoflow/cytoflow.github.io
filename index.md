@@ -59,8 +59,9 @@ packages don't handle this gracefully!
 
 # Documentation
 
-You can find the [developer documentation at ReadTheDocs.](https://cytoflow.readthedocs.io/).  GUI documentation for the currently selected operation or
-view appears in the "Help" panel in the GUI.  If you don't see a "Help" 
+You can find the [user manual and developer documentation at ReadTheDocs.](https://cytoflow.readthedocs.io/).  
+GUI documentation for the currently selected operation or
+view also appears in the "Help" panel in the GUI.  If you don't see a "Help" 
 panel, make sure it's activated by going to the "View" menu and selecting
 "Help".
 
