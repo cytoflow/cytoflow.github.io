@@ -1,7 +1,7 @@
 # Setup
 title:        Cytoflow
 tagline:      Better quantitative flow cytometry.
-version:      1.2.3
+version:      1.3.0
 baseurl:      "/"
 paginate:     1
 
